@@ -1,3 +1,3 @@
 # pegsolitaire-jjyokyu ペグソィテア　上級編
 
-https://wa-aakira.github.io/pegsolitaire.jjyokyu/
+https://wa-aakira.github.io/pegsolitaire-jjyokyu/
